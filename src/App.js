@@ -54,7 +54,7 @@ class App extends Component {
           title={intro.title}
           description={intro.description}
         />
-        {/*<Intro
+        <Intro
           img={introC.imgUrl}
           title={introC.title}
           description={introC.description}
@@ -66,7 +66,7 @@ class App extends Component {
           buttonText={cta.buttonText}
           buttonUrl={cta.buttonUrl}
         />
-        <Pricing />
+        {/*<Pricing />
         <Footer />
         */}
       </div>
