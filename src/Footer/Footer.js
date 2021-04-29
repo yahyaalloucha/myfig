@@ -14,7 +14,7 @@ class Footer extends Component {
       <div className={Styles.container}>
         <div className={Styles.lastdiv}>
           <p className={Styles.copyright}>©2020 Yourcompany</p>
-          <img src={Landie} alt="text" className={Styles.img}></img>
+          <img src={Landie} alt="text" className={Styles.img1}></img>
           <div className={Styles.button}>Purchase now</div>
         </div>
         <div className={Styles.Line}></div>

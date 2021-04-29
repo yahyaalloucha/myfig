@@ -66,9 +66,8 @@ class App extends Component {
           buttonText={cta.buttonText}
           buttonUrl={cta.buttonUrl}
         />
-        {/*<Pricing />
+        <Pricing />
         <Footer />
-        */}
       </div>
     );
   }
